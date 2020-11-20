@@ -1,0 +1,5 @@
+version: '3.3'
+
+services:
+  flask_app:
+    image: amiraldo7/flask
