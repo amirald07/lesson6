@@ -1,0 +1,6 @@
+version: '3.3'
+
+services: 
+  flask_app:
+    ports: 
+    - 5500:5000 
